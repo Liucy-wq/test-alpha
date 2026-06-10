@@ -1,0 +1,49 @@
+{
+  "meetId": "689585",
+  "title": "测试分享",
+  "startTime": "2026-06-10 14:39:00",
+  "duration": 120,
+  "mode": "create",
+  "meetingPrivacy": "open",
+  "meetingTypeLabel": "公开会议",
+  "createSkipped": false,
+  "createResponse": {
+    "retCode": 0,
+    "retData": "2026-06",
+    "retMsg": "操作成功"
+  },
+  "meetingListConfirmed": true,
+  "added": {
+    "hosts": [
+      {
+        "person": {
+          "name": "刘双锋",
+          "phone": "19062504054"
+        },
+        "response": {
+          "retCode": 0,
+          "retData": "{\"msg\":\"success\",\"code\":0,\"data\":{\"id\":1078,\"meetId\":689585,\"name\":\"刘双锋\",\"phone\":\"19062504054\",\"email\":null,\"role\":1,\"company\":null,\"dept\":null,\"desc\":null},\"host\":\"secapi-voicecloud\",\"time\":1781072382931,\"logKey\":\"ct4fRVod\"}",
+          "retMsg": "success"
+        },
+        "confirmed": true,
+        "skipped": false
+      }
+    ],
+    "guests": [
+      {
+        "person": {
+          "name": "刘晨阳",
+          "phone": "15350618414"
+        },
+        "response": {
+          "retCode": 0,
+          "retData": "{\"msg\":\"success\",\"code\":0,\"data\":{\"id\":1079,\"meetId\":689585,\"name\":\"刘晨阳\",\"phone\":\"15350618414\",\"email\":null,\"role\":2,\"company\":null,\"dept\":null,\"desc\":null},\"host\":\"secapi-voicecloud\",\"time\":1781072383281,\"logKey\":\"sXbvcczn\"}",
+          "retMsg": "success"
+        },
+        "confirmed": true,
+        "skipped": false
+      }
+    ],
+    "participants": []
+  }
+}

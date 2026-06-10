@@ -1,0 +1,37 @@
+{
+  "meetId": "689588",
+  "title": "测试分享会议",
+  "startTime": "2026-06-10 14:30:00",
+  "duration": 30,
+  "mode": "resumed",
+  "meetingPrivacy": "open",
+  "meetingTypeLabel": "公开会议",
+  "createSkipped": true,
+  "createResponse": null,
+  "meetingListConfirmed": true,
+  "added": {
+    "hosts": [
+      {
+        "person": {
+          "name": "刘双锋",
+          "phone": "19062504054"
+        },
+        "response": null,
+        "confirmed": true,
+        "skipped": true
+      }
+    ],
+    "guests": [
+      {
+        "person": {
+          "name": "刘晨阳",
+          "phone": "15350618414"
+        },
+        "response": null,
+        "confirmed": true,
+        "skipped": true
+      }
+    ],
+    "participants": []
+  }
+}
